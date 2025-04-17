@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **NTT DATA**
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **Python and data science**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ftejonca](https://github.com/ftejonca)
 
